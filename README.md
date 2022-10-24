@@ -1,7 +1,7 @@
 [![@keshrirajj's Holopin board](https://holopin.me/keshrirajj)](https://holopin.io/@keshrirajj)
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Frontend Engineer at commerceUp</h3>
+<h3 align="center">Experienced Frontend Developer with a demonstrated history of working in the internet industry. Skilled in HTML, Front-end Development, Cascading Style Sheets (CSS) & (SCSS), AngularJS, and HTML5</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshrirajj&label=Profile%20views&color=0e75b6&style=flat" alt="keshrirajj" /> </p>
